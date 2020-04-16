@@ -1,0 +1,32 @@
+#postList {
+  margin-left: 40px;
+  list-style: none;
+}
+
+#postList li {
+  margin-bottom: 20px;
+  border: 1px solid teal;
+  width: 30%;
+}
+
+.PostList-list {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.PostList-list li {
+  width: 250px;
+  border: 1px solid teal;
+  list-style: none;
+  padding: 1rem;
+  background-color: burlywood;
+  margin: 1rem;
+}
+
+.PostList-list button {
+  display: block;
+  padding: 0.3rem;
+  margin: 0.3rem auto;
+}

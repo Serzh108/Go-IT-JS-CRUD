@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "author": "Bootcamp19",
+      "title": "Some post title"
+    },
+    {
+      "author": "Vasya Pupkin",
+      "id": 3,
+      "title": "text test MMnn"
+    },
+    {
+      "author": "Ser",
+      "title": "post axios new",
+      "id": 4
+    },
+    {
+      "author": "Author",
+      "title": "Title new 22",
+      "id": 5,
+      "update": {
+        "author": "Author",
+        "title": "Title new 22"
+      }
+    }
+  ]
+}
